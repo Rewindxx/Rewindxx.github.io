@@ -1,0 +1,41 @@
+body{
+  background-image: url("image.jpg");
+}
+
+h1 {
+  -webkit-text-stroke: 1.1px black;
+  font-family: SkarpaLt;
+  font-style: normal;
+  font-size: 50px;
+  text-align: center;
+  text-shadow: silver;
+  color: white;
+}
+
+p1{
+  font-family: SkarpaLt;
+  font-style: normal;
+  font size: 25px;
+  text-align: center;
+  text-shadow: white;
+  color: white;
+}
+
+ol{
+  font-family: SkarpaLt;
+  font-style: normal;
+  font-size: 25px;
+  text-align: center;
+  text-shadow: white;
+  color: white;
+}
+
+
+##h2 {
+  font-family: SkarpaLt;
+  font-weight: bold;
+  font-size: 36px;
+  text-align: center;
+  text-shadow: silver;
+  color: red;
+}
